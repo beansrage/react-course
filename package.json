@@ -1,0 +1,24 @@
+{
+  "name": "react-dom",
+  "version": "17.0.2",
+  "description": "React Course - Beginner's Tutorial for React JavaScript Library [2022]",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beansrage/react-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beansrage/react-course/issues"
+  },
+  "homepage": "https://github.com/beansrage/react-course#readme"
+}

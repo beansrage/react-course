@@ -1,14 +1,5 @@
-const h1 = document.createElement("h1")
-h1.textContent = "Hello world"
-h1.className = "header"
-console.log(h1)
-
-// const page = (
-//     <div>
-//         <h1 className="header">JSX bitches</h1>
-//         <p>A paragraph for sluts</p>
-//     </div>
-// )
+import React from "react"
+import ReactDOM from "react-dom"
 
 const navBar = (
     <nav>
