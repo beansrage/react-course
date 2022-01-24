@@ -1,17 +1,8 @@
 import React from "react"
-import ReactDOM from "react-dom"
+import ReactDOM from "react"
 
-const navBar = (
-    <nav>
-        <h1>Pig Palace</h1>
-        <ul>
-            <li>Pricing</li>
-            <li>About</li>
-            <li>Contact</li>
-        </ul>
-    </nav>
+const page = (
+    <h1>Test</h1>
 )
-ReactDOM.render(
-    navBar,
-    document.getElementById("root")
-)
+
+ReactDOM.render(page,document.getElementById("root"))

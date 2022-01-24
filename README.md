@@ -6,3 +6,4 @@ Link to course:
 
 1/24
     Time stopped: 43:56
+    Time stopped: 52:32
